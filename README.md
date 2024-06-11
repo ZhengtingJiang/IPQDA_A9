@@ -6,7 +6,7 @@ When you are using Ubuntu (Linux), please follow the process below. If you are u
 then type 'Anaconda', there should be a matching entry called Anaconda Prompt, select it and it will show a new command window.
 First we should create a new environment for the assignment.
 ```
-  $ conda env create --ipqda python==3.11.0 -y
+  $ conda env create --ipqda python==3.8.0 -y
   $ conda activate ipqda
 ```
 Next we should load necessary packages
