@@ -1,4 +1,4 @@
-# Project for Group Assignment --------- Group 9
+# Project for Group Assignment --------- Group A9
 Author: Zhengting Jiang, Wenjie Zhang, Wenjie Gu.
 
 ## Installation
