@@ -11,6 +11,7 @@ First we should create a new environment for the assignment.
 ```
 Next we should load necessary packages
 ```
+  $ pip install cellpose
   $ pip install cellpose[gui]
   $ pip install devbio-napari
 ```
