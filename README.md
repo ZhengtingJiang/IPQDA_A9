@@ -2,10 +2,8 @@
 Author: Zhengting Jiang, Wenjie Zhang, Wenjie Gu.
 
 ## Installation
-
 When you are using Ubuntu (Linux), please follow the process below. If you are using Windows please press the Windows icon,
 then type 'Anaconda', there should be a matching entry called Anaconda Prompt, select it and it will show a new command window.
-------------------------------------------------------------------------------
 First we should create a new environment for the assignment.
 ```
   $ conda env create --ipqda python==3.11.0 -y
